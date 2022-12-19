@@ -15,14 +15,6 @@ Dispositivos: Embora existam mais, os Macanudos usam um de três dispositivos: (
 
 Router: É um roteador de mensagem pela rede. Recebe e reenvia as mensagens criando uma rede que faz chegar os pacotes ao destino. O NOVELO é o equipamento critico para a construção e manutenção desta rede deflora. Os membros contribuem na sua implementação e suporte de duas formas: primeiro, comprando e colocando um novelo no telhado de sua casa, e segundo contribuindo com a taxa de subscrição à rede acima referida, num mínimo de 50 euros. Os novelos terão como nome o código de freguesia ICOFE.
 
-Membros: Os membros da rede contribuem com pelo menos 50 euros uma única vez, podendo ser pagos em mensalidade até dois anos. A qualidade de membro é vitalícia. Dá acesso ilimitado à rede, prioridade máxima nas comunicações, suporte personalizado, um cartão e um emblema.
-
-Pacotes: A subscrição à rede é gratuita, sendo asseguradas as comunicações de emergência e um número limitado mensagens. Nesta opção, apenas é necessário o registo no portal e um qualquer equipamento compatível, adquirido ou construído pelo próprio.
-
-Pacote Mayday - Membro da rede (40 euros - desconto de 20%), um novelo totalmente autónomo com painel solar, bateria e caixa (75 euros), mais um cliente em opção entre um T-Echo (80 euros), um T-beam (50 euros) ou um Lora32 (30 euros). - pacote completo com um equipamento portátil e um novelo autónomo, indicado para iniciados.
-Pacote Modular: Membro da rede (45 euros - desconto de 10%), um novelo totalmente autónomo com painel solar, bateria, caixa e cabos (75 euros). - apenas um dispositivo, que pode ser colocado em qualquer lado, indicado para upgrade ou entrada como membro.
-Pacote Pé de Sola: Membro da rede (50 euros) e um cliente  pelos preços indicados. - apenas um dispositivo com caixa e não autónomo, ideal para experimentação da tecnologia.
-
 Pacote gratuito: Subscrição à rede, com comunicação de mensagens ou IoT em qualquer das bandas (433 ou 868 Mhz), acesso ao canais públicos e à rede de emergência. Limite de mensagens. Sem suporte.
 
 Financiamento: A rede assenta nos NOVELOS colocados nos locais estratégicos, e que têm um custo aproximados de 75 euros. Torna-se membro da rede "deflora", quem contribuir com 50 euros ou mais para a rede. Esta qualidade é vitalícia e de serve para custear um novelo.
@@ -44,4 +36,6 @@ Deve instalar o firmware usando a tool.... link, bla bla bla
 T-Beam link
 T-Echo link
 
+Existem 3 canais publicos iniciais na rede, um é o "primary" que é o canal principal da rede meshtastic, e o outros é o canal 333 e o redesuporte.
+Para configurar o canais da rede basta ler o QRK code aqui.
 
