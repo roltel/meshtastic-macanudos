@@ -38,5 +38,5 @@ T-Echo link
 
 Existem 3 canais publicos iniciais na rede, um é o "primary" que é o canal principal da rede meshtastic, e o outros é o canal 333 e o redesuporte.
 Para configurar o canais da rede basta ler o QRK code aqui.
-O canal #macanudos é reservado a convite e econtra-se ligado à vénus.
+O canal #rodinha é reservado a convite e econtra-se ligado à vénus e destinado a testes.
 
