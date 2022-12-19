@@ -24,7 +24,7 @@ Financiamento: A rede assenta nos NOVELOS colocados nos locais estratégicos, e 
 Online: o suporte desta rede LoRa é realizado através de um chat no servidor IRC #redesuporte e do mumble do Macanudos.org, canal redesuporte *. Deve ter consigo o cartão de membro para suporte urgente.
 Fora da rede: mas dentro da rede DEFLORA, suporte no canal redesuporte.*
 
-## Emergência: Não é finalidade desta rede servir pedidos de socorro, no entanto em caso de falha das comunicações, além do promovido plano 333, a rede deflora tem um canal "333" ao dispor, a funcionar independente de qualquer internet, satélite ou cabo. Ou seja o plano 333 aplica-se ao canal "333" dentro da rede (saber mais).
+Emergência: Não é finalidade desta rede servir pedidos de socorro, no entanto em caso de falha das comunicações, além do promovido plano 333, a rede deflora tem um canal "333" ao dispor, a funcionar independente de qualquer internet, satélite ou cabo. Ou seja o plano 333 aplica-se ao canal "333" dentro da rede (saber mais).
 
 Os equipamentos fornecidos já vêm programados e configurados para a rede, com os canais extra e as prioridades máximas. Configuramos ao sabor do cliente. Todos os dispositivos são universais podendo servir qualquer outra função futura que venha a ter necessidade.
 
