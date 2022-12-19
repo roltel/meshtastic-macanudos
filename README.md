@@ -1,7 +1,7 @@
 # meshtastic-macanudos
 Rede deflora.
 
-Codename: DefLoRa (provisório);
+##Codename: DefLoRa (provisório);
 
 Descrição: rede de dispostivos LoRa de troca de mensagens, emergência e localização fora da rede. Sem qualquer dependência da internet. Comunique offgrid ou use a rede como gateway para IoT.
 
