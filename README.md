@@ -36,11 +36,11 @@ Deve instalar o firmware usando a tool [Flash Download Tools	Windows](https://ww
 
 # Exemplos de configuração
 
-##Update Firmware
+## Update Firmware
 
 ![Update](imagens/Exemplo_configuração-Update.png)
 
-##Factory Default ou Primeira instalação
+## Factory Default ou Primeira instalação
 
 ![Factory Default](imagens/Exemplo_configuração-FactoryDefault.png)
 
