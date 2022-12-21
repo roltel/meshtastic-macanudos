@@ -42,7 +42,7 @@ Deve instalar o firmware usando a tool [Flash Download Tools	Windows](https://ww
 
 ## Factory Default ou Primeira instalação
 
-![Factory Default](imagens/Exemplo_configuração-FactoryDefault.pn)
+![Factory Default](imagens/Exemplo_configuração-FactoryDefault.png)
 
 
 
