@@ -32,7 +32,7 @@ Os equipamentos fornecidos já vêm programados e configurados para a rede, com 
 
 # Instalação
 
-Deve instalar o firmware usando a tool Flash Download Tools	Windows(https://www.espressif.com/en/support/download/other-tools)
+Deve instalar o firmware usando a tool [Flash Download Tools	Windows](https://www.espressif.com/en/support/download/other-tools)
 
 
 
