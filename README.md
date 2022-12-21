@@ -34,10 +34,12 @@ Os equipamentos fornecidos já vêm programados e configurados para a rede, com 
 
 Deve instalar o firmware usando a tool [Flash Download Tools	Windows](https://www.espressif.com/en/support/download/other-tools)
 
-Exemplos de configuração
+# Exemplos de configuração
 
+Update Firmware
 ![Update](imagens/Exemplo_configuração-Update.png)
 
+Factory Default ou Primeira instalação
 ![Factory Default](imagens/Exemplo_configuração-FactoryDefault.png)
 
 
