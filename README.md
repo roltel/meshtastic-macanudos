@@ -38,7 +38,7 @@ Deve instalar o firmware usando a tool [Flash Download Tools	Windows](https://ww
 
 ## Update Firmware
 
-![Update](imagens/Exemplo_configuração-Update.png)
+![Update](imagens/Exemplo-configuração-Update.png)
 
 ## Factory Default ou Primeira instalação
 
