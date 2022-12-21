@@ -32,9 +32,9 @@ Os equipamentos fornecidos já vêm programados e configurados para a rede, com 
 
 # Instalação
 
-Deve instalar o firmware usando a tool.... link, bla bla bla
-T-Beam link
-T-Echo link
+Deve instalar o firmware usando a tool Flash Download Tools	Windows(https://www.espressif.com/en/support/download/other-tools)
+
+
 
 Existem 3 canais publicos iniciais na rede, um é o "primary" que é o canal principal da rede meshtastic, e o outros é o canal 333 e o redesuporte.
 Para configurar o canais da rede basta ler o QRK code aqui.
