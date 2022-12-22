@@ -53,7 +53,7 @@ Deve instalar o firmware usando a tool [Flash Download Tools	Windows](https://ww
 * Observe que uma nova unidade será montada em seu computador (Windows, Mac ou Linux)
 * Abra esta unidade e você verá três arquivos: CURRENT.UF2, INDEX.HTM e INFO_UF2.TXT
 * Solte o arquivo de firmware apropriado (T-Echo.Macanudos.firmware.uf2) da versão nesta unidade.
-* Depois que o arquivo for copiado para a unidade, o dispositivo será reinicializado e instalará o firmware Meshtastic
+* Depois que o arquivo for copiado para a unidade, o dispositivo será reinicializado e instalará o firmware Meshtastic-Macanudos
 
 
 
