@@ -48,12 +48,12 @@ Deve instalar o firmware usando a tool [Flash Download Tools	Windows](https://ww
 
 ## Update Firmware
 
-*Conecte seu dispositivo ao computador com um cabo de dados USB.
-*Clique duas vezes no botão de reinicialização do seu dispositivo (isso o colocará no modo bootloader)
-*Observe que uma nova unidade será montada em seu computador (Windows, Mac ou Linux)
-*Abra esta unidade e você verá três arquivos: CURRENT.UF2, INDEX.HTM e INFO_UF2.TXT
-*Solte o arquivo de firmware apropriado (T-Echo.Macanudos.firmware.uf2) da versão nesta unidade.
-*Depois que o arquivo for copiado para a unidade, o dispositivo será reinicializado e instalará o firmware Meshtastic
+* Conecte seu dispositivo ao computador com um cabo de dados USB.
+* Clique duas vezes no botão de reinicialização do seu dispositivo (isso o colocará no modo bootloader)
+* Observe que uma nova unidade será montada em seu computador (Windows, Mac ou Linux)
+* Abra esta unidade e você verá três arquivos: CURRENT.UF2, INDEX.HTM e INFO_UF2.TXT
+* Solte o arquivo de firmware apropriado (T-Echo.Macanudos.firmware.uf2) da versão nesta unidade.
+* Depois que o arquivo for copiado para a unidade, o dispositivo será reinicializado e instalará o firmware Meshtastic
 
 
 
