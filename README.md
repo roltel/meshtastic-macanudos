@@ -34,7 +34,7 @@ Os equipamentos fornecidos já vêm programados e configurados para a rede, com 
 
 Deve instalar o firmware usando a tool [Flash Download Tools	Windows](https://www.espressif.com/en/support/download/other-tools)
 
-# Exemplos de configuração
+# Exemplos de configuração para modelos ESP32
 
 ## Update Firmware
 
