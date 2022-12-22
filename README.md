@@ -5,7 +5,7 @@ Codename: DefLoRa
 
 Descrição: rede de dispostivos LoRa de troca de mensagens, emergência e localização fora da rede. Sem qualquer dependência da internet. Comunique offgrid ou use a rede como gateway para IoT.
 
-Frequência: 868 Mhz e 433 Mhz (preferencialmente 433 Mhz) - bandas livres
+Frequência: 433 Mhz e 868 Mhz (preferencialmente 433 Mhz) - bandas livres
 
 Estado: Em testes com 5 routers e 3 clientes. (18.12.2022)
 
