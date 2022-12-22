@@ -1,4 +1,4 @@
-# meshtastic-macanudos
+# Meshtastic Macanudos
 Rede deflora.
 
 Codename: DefLoRa
