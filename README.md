@@ -51,3 +51,10 @@ Existem 3 canais publicos iniciais na rede, um é o "primary" que é o canal pri
 Para configurar o canais da rede basta ler o QRK code aqui.
 O canal #rodinha é reservado a convite e econtra-se ligado à vénus e destinado a testes.
 
+# Links
+
+https://macanudos.org/deflora
+https://flasher.meshtastic.org/ Flasher
+https://meshtastic.org/downloads Firmware
+https://meshtastic.org/docs/introduction Documentation
+
