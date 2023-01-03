@@ -1,6 +1,6 @@
-#DeFLoRa Meshtastic Macanudos Road Map
+## DeFLoRa Meshtastic Macanudos Road Map
 
-#DeFLoRa V.0.1 Tango Alpha
+### DeFLoRa V.0.1 Tango Alpha
 Site: https://macanudos.org/deflora/
 18.12.2022 - 4 Nodes 4 Clients
 Firmware 2.0.7-8
@@ -12,7 +12,7 @@ Primary Channel: LongFast
 Secondary Channel: 333, suporte, macanudos
 
 
-#Deflora V.0.1.1 Romeo Beta
+###Deflora V.0.1.1 Romeo Beta
 15.1.2023 - 5 Nodes 6 Clients
 Site: https://macanudos.org/deflora/
 Firmware 2.0.9-10
