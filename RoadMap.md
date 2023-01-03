@@ -3,13 +3,21 @@
 ### DeFLoRa V.0.1 Tango Alpha
 
 Site: https://macanudos.org/deflora/
+
 18.12.2022 - 4 Nodes 4 Clients
+
 Firmware 2.0.7-8
+
 Android App 2.0.7-8
+
 MQTT Zone 2-3
+
 Fixed Map: https://macanudos.org/deflora/
+
 Dynamic Map: N/A
+
 Primary Channel: LongFast
+
 Secondary Channel: 333, suporte, macanudos
 
 
