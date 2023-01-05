@@ -13,7 +13,7 @@
 * Secondary Channel: 333, suporte, macanudos
 
 
-###Deflora V.0.1.1 Romeo Beta
+### Deflora V.0.1.1 Romeo Beta
 
 * 15.1.2023 - 5 Nodes 6 Clients
 * Site: https://macanudos.org/deflora/
