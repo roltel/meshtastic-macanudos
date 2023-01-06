@@ -34,6 +34,7 @@ Deve instalar o firmware usando a tool [Flash Download Tools	Windows](https://ww
 
 ![Factory Default](imagens/Exemplo-configuração-Factory-Default.png)
 ![Video](https://youtu.be/lWcONNrydQE)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/lWcONNrydQE/0.jpg)](https://www.youtube.com/watch?v=lWcONNrydQE "Meshtastic Macanudos")
 # Exemplo de configuração para modelos NRF52
 
 ## Update Firmware
