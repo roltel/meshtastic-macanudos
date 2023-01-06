@@ -33,7 +33,7 @@ Deve instalar o firmware usando a tool [Flash Download Tools	Windows](https://ww
 ## Factory Default ou Primeira instalação
 
 ![Factory Default](imagens/Exemplo-configuração-Factory-Default.png)
-
+![Video](https://youtu.be/lWcONNrydQE)
 # Exemplo de configuração para modelos NRF52
 
 ## Update Firmware
