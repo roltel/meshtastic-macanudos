@@ -45,9 +45,9 @@ Deve instalar o firmware usando a tool [Flash Download Tools	Windows](https://ww
 * Solte o arquivo de firmware apropriado (Por Exemplo: T-Echo.Macanudos.firmware.uf2) da versão nesta unidade.
 * Depois que o arquivo for copiado para a unidade, o dispositivo será reinicializado e instalará o firmware Meshtastic-Macanudos
 
-# Instalação da Aplicação para ANDROID Meshtastic 
+# Instalação da Aplicação para smartphones 
 
-Deve instalar o firmware usando a tool [Flash Download Tools	Windows](Android/Meshtastic_Android_V2.0.11.apk)
+ANDROID [Última versão Android Meshtastic APP](https://github.com/roltel/meshtastic-macanudos/raw/main/Android/Meshtastic_Android_V2.0.11.apk)
 
 # Canais da rede DefLoRa
 
