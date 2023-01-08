@@ -20,7 +20,7 @@ Fora da rede: mas dentro da rede DEFLORA, suporte no canal suporte.
 ## Equipamentos
 Os equipamentos fornecidos já vêm programados e configurados para a rede, com os canais extra e as prioridades máximas. Configuramos ao sabor do cliente. Todos os dispositivos são universais podendo servir qualquer outra função futura que venha a ter necessidade. Para saber mais, consulta a página DeFLoRa.
 
-# Instalação do firmware Mestastic Macanudos
+# Instalação do firmware Meshtastic Macanudos
 
 Deve instalar o firmware usando a tool [Flash Download Tools	Windows](https://www.espressif.com/en/support/download/other-tools)
 
@@ -44,6 +44,10 @@ Deve instalar o firmware usando a tool [Flash Download Tools	Windows](https://ww
 * Abra esta unidade e você verá três arquivos: CURRENT.UF2, INDEX.HTM e INFO_UF2.TXT
 * Solte o arquivo de firmware apropriado (Por Exemplo: T-Echo.Macanudos.firmware.uf2) da versão nesta unidade.
 * Depois que o arquivo for copiado para a unidade, o dispositivo será reinicializado e instalará o firmware Meshtastic-Macanudos
+
+# Instalação da Aplicação para ANDROID Meshtastic 
+
+Deve instalar o firmware usando a tool [Flash Download Tools	Windows](Android/Meshtastic_Android_V2.0.11.apk)
 
 # Canais da rede DefLoRa
 
