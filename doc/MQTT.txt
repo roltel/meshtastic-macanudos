@@ -1,7 +1,7 @@
 hostname macanudos.org 
 port 1883
-user test
-password test
+user macanudos
+password macanudos
 channel primary AQ==
 channel 333 macanudos333
 channel suporte rede
