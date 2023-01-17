@@ -16,10 +16,10 @@
 ### Deflora V.0.1.1 Romeo Beta
 
 * Site: https://macanudos.org/deflora/
-* 5.1.2023 - 5 Nodes 5 Clients
-* Firmware 2.0.9-10
+* 18.1.2023 - 5 Nodes 5 Clients
+* Firmware 2.0.12
 * Android App 2.0.9-10
-* MQTT Zone 1-2
+* MQTT Zone 1-2-3
 * Fixed Map: https://macanudos.org/deflora/
 * Dynamic Map: http://mesh.macanudos.org
 * Primary Channel: LongFast
