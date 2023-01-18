@@ -1,7 +1,7 @@
 # Meshtastic Macanudos
 Rede DeFLoRa
 
-Descrição: rede de dispostivos Meshtastic LoRa de troca de mensagens, emergência e localização fora da rede. Sem qualquer dependência da internet. Comunique offgrid ou use a rede como gateway para IoT.
+Descrição: rede de dispostivos Meshtastic LoRa de troca de mensagens, emergência e localização fora da rede. Sem qualquer dependência da internet. Comunique offgrid ou use a rede como gateway para IoT. Saber mais no site oficial: https://meshtastic.org. Existe um grupo no Facebook e uma página para a Meshtastic Portugal  assim como um grupo de Telegram Meshtastic.org Portugal para suporte e desenvolvimento públicos. 
 
 Frequência: 433 Mhz e 868 Mhz (preferencialmente 433 Mhz) - bandas livres
 
@@ -9,11 +9,11 @@ Estado: Em testes com 5 routers e 3 clientes. (18.12.2022)
 
 ## Projecto DeFLoRa
 
-Para consutlar o mapas, saber ou obter informação detalhada, mais consulte a página do projecto: https://macanudos.org/deflora
+Para consultar o mapas, saber ou obter informação detalhada sobre esta rede privada, mais consulte a página do projecto: https://macanudos.org/deflora
 
 ## Suporte
 
-Online: o suporte desta rede LoRa é realizado através de um chat no servidor IRC #redesuporte e do mumble do Macanudos.org, canal redesuporte
+Online: o suporte desta rede LoRa é realizado através de um chat no servidor IRC #suporte e do mumble do Macanudos.org, canal redesuporte
 
 Fora da rede: mas dentro da rede DEFLORA, suporte no canal suporte.
 
@@ -60,6 +60,7 @@ O canal #rodinha é reservado a convite e econtra-se ligado à vénus e destinad
 # Links
 
 https://macanudos.org/deflora
+https://macanudos.org/
 https://flasher.meshtastic.org/ Flasher
 https://meshtastic.org/downloads Firmware
 https://meshtastic.org/docs/introduction Documentation
